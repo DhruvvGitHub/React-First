@@ -27,3 +27,6 @@ dist-ssr
 
 .prettierrc
 
+eslint.config.js
+
+vite.config.js
